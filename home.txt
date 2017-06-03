@@ -1,6 +1,0 @@
-# M.B.<item>
-<title></title>
-<utube></utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
